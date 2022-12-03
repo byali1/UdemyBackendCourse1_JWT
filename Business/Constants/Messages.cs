@@ -17,5 +17,12 @@ namespace Business.Constants
         public static string CategoryAdded = "Kategori eklendi.";
         public static string CategoryUpdated = "Kategori güncellendi.";
         public static string CategoryDeleted = "Kategori silindi.";
+
+        public static string UserNotFound = "Böyle bir kullanıcı bulunamadı.";
+        public static string PasswordError = "Şifre yanlış.";
+        public static string SuccessfulLogin = "Giriş başarılı.";
+        public static string UserAlreadyExists = "Böyle bir kullanıcı zaten var.";
+        public static string AccessTokenCreated = "Token yaratıldı.";
+        public static string UserRegistered = "Kayıt başarılı.";
     }
 }
