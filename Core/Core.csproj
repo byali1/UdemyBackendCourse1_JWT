@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="DataAccess\EntityFramework\" />
-    <Folder Include="Utilities\Security\" />
   </ItemGroup>
 
   <ItemGroup>
